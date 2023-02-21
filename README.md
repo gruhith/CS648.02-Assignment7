@@ -1,1 +1,1 @@
-# CS648.02-Assignment7
+# Inventory Management System
